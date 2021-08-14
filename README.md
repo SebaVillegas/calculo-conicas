@@ -4,6 +4,7 @@ Programa para calcular cónicas a partir de la ecuación general de la misma. Mu
 Este programa lo hicimos junto a Enzo Manolucos como parte de un trabajo integrador de la materia Informatica I de la carrera Ing. Electrónica (UTN - FRC) en el año 2016.
 
 Hay mucho para mejorar, como empezando por cambiar la estructura del programa para que sea más reutilizable o quizás si nos ponemos a revisar vamos a encontrar formas más prácticas de realizar algunas operaciones con menos recursos. Personalmente recuerdo que cuando lo terminamos estábamos bastante conforme con el resultado. Pero creo que quizás pueda resultarle útil a alguien en algún momento tener un programa como este a mano.
+
 ------------------------------------
 Program to calculate conics from the general equation. It shows the points of interest according to the type of conic (radius, focus, major side, eccentricity, etc).
 
